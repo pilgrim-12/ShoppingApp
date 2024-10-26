@@ -26,4 +26,7 @@ Clicking add to cart button adding this product to the cart items.
 Shopping cart functionality implemented only on client side, with helping of Vuex accross 
 application.
 
+By this link you'll find video on by google cloud of small presentation:
+https://drive.google.com/file/d/1rdvAhyNA5RuaEZtnTw3neF7Qgvd9bWdc/view
+
 
