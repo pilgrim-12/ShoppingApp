@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ShoppingApp.Services.AuthAPI.props" />
+</Project>

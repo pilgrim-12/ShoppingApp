@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i9zGF9zeWS7HoxxFxxoudCXKkCLjjP+eD/uom/sPuck=",
+  "Source": "ShoppingApp.Services.ProductAPI",
+  "BasePath": "_content/ShoppingApp.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
